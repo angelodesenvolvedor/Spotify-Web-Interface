@@ -1,5 +1,17 @@
 @media screen and (max-width: 1015px) {
-  .offer__list-item {
-    grid-template-columns: 1fr 1fr;
-  }
+    .offer__list-item {
+      grid-template-columns: 1fr 1fr;
+    }
 }
+
+@media only screen and (max-width: 767px) {
+    .offer__list-item {
+        grid-template-columns: 1fr; /* Um card por linha em telas menores */
+    }
+
+    .cards {
+        width: 100%; /* Ocupa a largura total da tela em telas menores */
+    }
+
+    /* Outros estilos adaptados para telas menores ... */
+} 
