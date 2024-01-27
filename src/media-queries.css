@@ -1,11 +1,5 @@
 @media screen and (max-width: 1015px) {
     .offer__list-item {
-        grid-template-columns: 1fr 1fr;
+      grid-template-columns: 1fr 1fr;
     }
-
-    @media screen and (max-width: 767px) { /* Adicione esta regra para dispositivos móveis com largura máxima de 767px */
-        .offer__list-item {
-            grid-template-columns: 1fr; /* Altere para uma única coluna para dispositivos móveis */
-        }
-    }
-}
+  }
