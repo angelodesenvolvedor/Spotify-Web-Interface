@@ -5,6 +5,7 @@
     height: 100vh;
     margin-left: 320px;
     margin-right: 56px;
+    min-width: 300px;
 }
 
 .header_navigation {
