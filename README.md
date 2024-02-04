@@ -13,7 +13,7 @@ Bem-vindo à Spotify Web Interface! Este projeto foi desenvolvido durante a Imer
 * ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## 👷 Autor
-* Nome do dev: Angelo - Desenvolvedor Frontend - @angelo_desenvolvedor
+* Nome do dev: Angelo - Desenvolvedor Frontend - [angelo_desenvolvedor](https://github.com/angelodesenvolvedor)
 
 ## 📄 Licença
 * Este projeto está sob a licença MIT license - acesse os detalhes no arquivo LICENSE.md.
