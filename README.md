@@ -16,7 +16,7 @@ Bem-vindo à Spotify Web Interface! Este projeto foi desenvolvido durante a Imer
 * Nome do dev: Angelo - Desenvolvedor Frontend - [angelo_desenvolvedor](https://github.com/angelodesenvolvedor)
 
 ## 📄 Licença
-* Este projeto está sob a licença MIT license - acesse os detalhes [LICENSE.md]()
+* Este projeto está sob a licença MIT license - acesse os detalhes [LICENSE.md](https://github.com/angelodesenvolvedor/Spotify-Web-Interface/tree/main?tab=MIT-1-ov-file)
 
    
 
